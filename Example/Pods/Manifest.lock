@@ -1,0 +1,16 @@
+PODS:
+  - SecondTestPodx1 (0.1.0)
+
+DEPENDENCIES:
+  - SecondTestPodx1 (from `../`)
+
+EXTERNAL SOURCES:
+  SecondTestPodx1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SecondTestPodx1: e81f549af1004e776c21105bff3065edf1bb0baf
+
+PODFILE CHECKSUM: 760eb5fcc75273cf3960d08c4267fbecc6c87cf2
+
+COCOAPODS: 1.5.0
