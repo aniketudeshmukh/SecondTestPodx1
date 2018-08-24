@@ -7,12 +7,13 @@
 //
 
 import UIKit
+import SecondTestPodx1
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        SecondTestPod().show()
     }
 
     override func didReceiveMemoryWarning() {
